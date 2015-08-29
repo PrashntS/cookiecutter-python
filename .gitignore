@@ -7,3 +7,5 @@
 /.tox
 /dist
 /build
+
+.DS_Store

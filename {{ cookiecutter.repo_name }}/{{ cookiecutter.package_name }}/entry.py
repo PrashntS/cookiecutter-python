@@ -1,5 +1,7 @@
-import click
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
+import click
 
 @click.command()
 @click.option('--as-cowboy', '-c', is_flag=True, help='Greet as a cowboy.')
